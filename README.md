@@ -4,7 +4,7 @@ An AI-powered platform combining Quantum Machine Learning and classical Machine 
 
 ## 🚀 Live Demo
 
-[Open Live Website]((https://quantum-disease-detection.netlify.app/#/))
+[Open Live Website](quantum-disease-detection.netlify.app)
 
 ## 🛠️ Technologies Used
 
