@@ -1,10 +1,10 @@
-# Hybrid Quantum Machine Learning Platform for Early Disease Detection
+# Q-Dx — Hybrid Quantum Machine Learning
 
-An AI-powered platform combining Quantum Machine Learning and classical Machine Learning for early disease detection.
+A Hybrid Quantum Machine Learning Platform for Early Disease Detection.
 
 ## 🚀 Live Demo
 
-[Open Live Website](quantum-disease-detection.netlify.app)
+[Open Q-Dx Live Website](https://quantum-disease-detection.netlify.app/)
 
 ## 🛠️ Technologies Used
 
@@ -15,11 +15,3 @@ An AI-powered platform combining Quantum Machine Learning and classical Machine 
 - Supabase
 - Vite
 - Netlify
-
-## 📌 Project Features
-
-- Early disease prediction
-- Quantum Machine Learning integration
-- AI-based analysis
-- Interactive dashboard
-- User-friendly interface
