@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://q-dx-hybrid-quantum-ml.netlify.app/)">
+  <a href="https://q-dx-hybrid-quantum-ml.netlify.app/">
     🌐 <b>Live Demo</b>
   </a>
 </p>
