@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://quantum-disease-detection.netlify.app/">
+  <a href="q-dx-hybrid-quantum-ml.netlify.app">
     🌐 <b>Live Demo</b>
   </a>
 </p>
