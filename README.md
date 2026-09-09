@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://q-dx-hybrid-quantum-ml.netlify.app/">
+  <a href="https://q-dx-multidesease-risk-detection.netlify.app/#/">
     🌐 <b>Live Demo</b>
   </a>
 </p>
@@ -172,7 +172,7 @@ Q-Dx explores this technology to investigate how quantum-enhanced algorithms can
 
 ### 🌐 Try Q-Dx
 
-<a href="https://q-dx-hybrid-quantum-ml.netlify.app/">
+<a href="https://q-dx-multidesease-risk-detection.netlify.app/#/">
   <b>👉 OPEN LIVE WEBSITE 👈</b>
 </a>
 
